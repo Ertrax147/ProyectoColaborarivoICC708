@@ -1,5 +1,5 @@
 using System;
-//x
+//xd
 public class OutputHandler
 {
     public static void ShowResult(double average)
